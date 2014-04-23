@@ -16,7 +16,7 @@
 	}
 	],
 	"scripts": [
-	"Test1/*"
+	"Test1\new*"
  	]
 	}
    ]
